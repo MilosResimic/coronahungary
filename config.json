@@ -23,7 +23,7 @@
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": false, 
     "imageAttribute": false
   },
   "sigma": {
