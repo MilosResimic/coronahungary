@@ -8,9 +8,9 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "This is a network of retweets based on tweets containing any of the following combinations of words (#coronavirus+#hungary,koronavirus+magyarorszag, koronavirus(tweets in Hungarian). Nodes are sized based on indegree (the more retweets, the bigger the node) and colored based on modularity class (community that they belong to, based on intensity of interaction).",
+    "more": "This is a network of retweets based on tweets containing any of the following combinations of words (#coronavirus+#hungary,koronavirus+magyarorszag, koronavirus(tweets in Hungarian)). Nodes are sized based on indegree (the more retweets, the bigger the node) and colored based on modularity class (community that they belong to, based on intensity of interaction).",
     "intro": "",
-    "title": "Twitterverse of covid-19 in Hungary"
+    "title": "Twitterverse around covid-19 involving Hungary"
   },
   "legend": {
     "edgeLabel": "Retweet",
